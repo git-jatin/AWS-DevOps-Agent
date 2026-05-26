@@ -13,3 +13,9 @@ The Incident Simulation: Connected via EC2 Instance Connect and fired a multithr
 
 
 <img width="497" height="1024" alt="image" src="https://github.com/user-attachments/assets/72efe746-9c29-487c-9bb1-a15dc580a27b" />
+
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-05-26 at 6 29 29 PM" src="https://github.com/user-attachments/assets/e992b3a8-33ea-4b1b-b098-5cf360c49318" />
+
